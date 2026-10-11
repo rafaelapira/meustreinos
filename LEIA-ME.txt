@@ -1,0 +1,5 @@
+1. Crie conta gratis em github.com e um repositorio novo (ex.: meus-treinos).
+2. Envie todo o conteudo desta pasta (Add file > Upload files). Confira que a pasta .github/workflows/build.yml foi enviada; se nao, use Add file > Create new file e digite o caminho .github/workflows/build.yml.
+3. Aba Actions > Build APK > Run workflow. Espere ~5 min.
+4. Abra a execucao concluida e baixe "meus-treinos-apk" (zip com app-debug.apk).
+5. Passe o APK para o celular e instale (permita "instalar apps desconhecidos").
